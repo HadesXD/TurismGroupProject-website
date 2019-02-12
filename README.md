@@ -4,7 +4,7 @@ We had to createa a series of .php files and update the look of the site a lot. 
 I would like to take a more in-depth look of this project in the future. <br/>
 
  <b>Using:</b>
-- languages: PHP, HTML, CSS, JavaScript, Haskell
+- languages: PHP, HTML, CSS, JavaScript, Haskell, SQL (MySQL)
 - IDE: NetBeans 8.2
 
 <b>To Do:</b>
