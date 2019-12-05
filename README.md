@@ -3,7 +3,7 @@ This was a group project of mine in 2017, where we were given a website created 
 
 <ul>
   <li><b>Date:</b> May 2017</li>
-  <li><b>Language:</b></li>
+  <li><b>Languages:</b></li>
   <ul>
    <li>HTML</li>
    <li>CSS</li>
