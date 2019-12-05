@@ -1,4 +1,4 @@
-# Turism - Website
+# Turism - phpSite
 This was a group project of mine in 2017, where we were given a website created by our teacher Islam Mušič. We had to createa a series of php files and update the look of the site.
 
 <ul>
