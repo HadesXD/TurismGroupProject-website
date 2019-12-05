@@ -10,7 +10,7 @@ This was a group project of mine in 2017, where we were given a website created 
    <li>JavaScript</li>
    <li>PHP</li>
    <li>MySQL</li>
-   <Haskell</li>
+   <li>Haskell</li>
   </ul>
   <li><b>IDE:</b> NetBeans 8.2</li>
 </ul>
